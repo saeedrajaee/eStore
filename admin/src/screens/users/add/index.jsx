@@ -1,4 +1,5 @@
-import { createUser } from "@/actions/userActions";
+// import { createUser } from "@/actions/userActions";
+import createUser from "@/actions/users/users.api";
 import Button from "@/components/ui/Button";
 import Input from "@/components/ui/Input";
 import Label from "@/components/ui/Label";
